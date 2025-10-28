@@ -1,0 +1,13 @@
+table	column	type	key	SQL
+graduate_programs	id	INT	PRIMARY KEY	"CREATE TABLE IF NOT EXISTS graduate_programs (
+  id INT PRIMARY KEY,"
+graduate_programs	university	VARCHAR		"  university VARCHAR,"
+graduate_programs	degree	VARCHAR		"  degree VARCHAR,"
+graduate_programs	program	VARCHAR		"  program VARCHAR
+);"
+				"  ,"
+				
+				
+				
+				
+				
