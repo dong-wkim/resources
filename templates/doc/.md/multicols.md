@@ -1,0 +1,34 @@
+---
+papersize: a4
+documentclass: article
+geometry:
+  - landscape
+  - margin=1cm
+header-includes:
+  - \usepackage{multicol}
+  - \setlength{\columnsep}{0.25cm}
+---
+
+\begin{multicols}{5}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique eu arcu et pharetra. Phasellus molestie euismod hendrerit. Morbi in viverra arcu. Pellentesque justo odio, gravida quis dui sed, viverra porttitor eros. Phasellus cursus felis fermentum, tincidunt augue vitae, congue leo. In ullamcorper consequat magna quis aliquam. Mauris faucibus in sem consequat finibus.
+
+\columnbreak
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique eu arcu et pharetra. Phasellus molestie euismod hendrerit. Morbi in viverra arcu. Pellentesque justo odio, gravida quis dui sed, viverra porttitor eros. Phasellus cursus felis fermentum, tincidunt augue vitae, congue leo. In ullamcorper consequat magna quis aliquam. Mauris faucibus in sem consequat finibus.
+
+\columnbreak
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique eu arcu et pharetra. Phasellus molestie euismod hendrerit. Morbi in viverra arcu. Pellentesque justo odio, gravida quis dui sed, viverra porttitor eros. Phasellus cursus felis fermentum, tincidunt augue vitae, congue leo. In ullamcorper consequat magna quis aliquam. Mauris faucibus in sem consequat finibus.
+
+\columnbreak
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique eu arcu et pharetra. Phasellus molestie euismod hendrerit. Morbi in viverra arcu. Pellentesque justo odio, gravida quis dui sed, viverra porttitor eros. Phasellus cursus felis fermentum, tincidunt augue vitae, congue leo. In ullamcorper consequat magna quis aliquam. Mauris faucibus in sem consequat finibus.
+
+\columnbreak
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique eu arcu et pharetra. Phasellus molestie euismod hendrerit. Morbi in viverra arcu. Pellentesque justo odio, gravida quis dui sed, viverra porttitor eros. Phasellus cursus felis fermentum, tincidunt augue vitae, congue leo. In ullamcorper consequat magna quis aliquam. Mauris faucibus in sem consequat finibus.
+
+
+\end{multicols}
+
